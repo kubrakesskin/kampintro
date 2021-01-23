@@ -32,6 +32,7 @@ namespace GenericsIntro //hangi tip verirsen onunla çalışır.
                 items[i] = tempArray[i];
             }
 
+
             items[items.Length - 1] = item; //aslında eklenmek istenen eleman su an eklenebildi.
         }
     }

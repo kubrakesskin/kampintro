@@ -35,7 +35,7 @@ namespace Koleksiyonlar
 
             //görüldüğü gibi liste yapıldığında da kayıp olmaz.
 
-            isimler2.
+           
 
 
         }
